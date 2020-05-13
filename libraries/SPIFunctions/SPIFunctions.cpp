@@ -1,3 +1,8 @@
+// Stephen Mock
+// SPI Library
+// Date: 5/12/20
+
+
 #include "SPIFunctions.h"
 #include <SPI.h>
 

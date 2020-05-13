@@ -1,3 +1,7 @@
+// Stephen Mock
+// I2C Library
+// Date: 5/12/20
+
 #include "I2CFunctions.h"
 #include <Wire.h>
 

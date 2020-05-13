@@ -1,0 +1,6 @@
+SPIFunctions	KEYWORD1
+writeSPI	KEYWORD2
+writeMultiSPI	KEYWORD2
+writeThenReadSPI	KEYWORD2
+readSPI	KEYWORD2
+writeAndReadSPI	KEYWORD2

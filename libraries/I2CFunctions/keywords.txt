@@ -1,0 +1,4 @@
+I2CFunctions	KEYWORD1
+readI2C	KEYWORD2
+readMultiI2C	KEYWORD2
+writeMultiI2C	KEYWORD2
